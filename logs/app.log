@@ -1,0 +1,253 @@
+2024-10-18T05:07:05.833Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-18T05:56:38.658Z [WARN]: Unauthorized access attempt by user 6711e0adf8e114effeb692b5 with role user
+2024-10-18T07:43:20.883Z [WARN]: Missing token in request
+2024-10-18T07:45:37.991Z [INFO]: Cache miss for key: /view-fixtures:/api/v1/fixtures/view-fixtures?status=completed
+2024-10-18T07:50:02.918Z [INFO]: Cache miss for key: /view-fixtures:/api/v1/fixtures/view-fixtures?status=pending
+2024-10-18T08:07:46.442Z [WARN]: Missing token in request
+2024-10-18T08:11:26.730Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?i=homeTeam
+2024-10-18T08:12:10.573Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?homeTeam=m
+2024-10-18T08:14:09.844Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?manchester%20united
+2024-10-18T08:14:27.796Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?%27i%27=m
+2024-10-18T08:16:54.301Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=chelsea
+2024-10-18T08:17:26.828Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=5
+2024-10-18T08:17:36.834Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=m
+2024-10-18T08:17:43.793Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=c
+2024-10-18T08:18:04.226Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=completed
+2024-10-18T08:18:24.686Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=pending
+2024-10-18T08:18:52.328Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T08:27:36.575Z [INFO]: Cache miss for key: /view-fixtures:/api/v1/fixtures/view-fixtures?status=completed
+2024-10-18T08:28:36.352Z [INFO]: Cache miss for key: /view-fixtures:/api/v1/fixtures/view-fixtures?status=pending
+2024-10-18T08:30:09.935Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T08:41:56.189Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T08:56:29.017Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T08:58:48.730Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T09:09:21.500Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T09:17:13.629Z [INFO]: Cache miss for key: /search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-18T09:17:24.155Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:15:39.819Z [INFO]: Cache miss for key: /fixtures:/api/v1/fixtures/fixtures?
+2024-10-19T03:51:33.901Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:51:33.938Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:51:33.994Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:51:34.021Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:56:00.328Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:56:00.359Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:56:00.416Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:56:00.441Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:59:05.192Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:59:05.202Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:59:05.228Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T03:59:05.229Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:13:08.898Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:13:08.939Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:13:08.965Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:13:08.994Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:19:50.630Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:19:50.672Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:19:50.782Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:19:50.802Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:24:34.362Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:24:34.397Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:24:34.427Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T04:24:34.452Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:23:23.917Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:23:23.934Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:23:23.950Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:37:08.605Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:37:08.634Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:37:08.660Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:46:02.131Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:46:02.160Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T05:46:02.181Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T08:58:15.762Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T08:58:52.869Z [INFO]: Cache miss for key: /api/v1/fixtures/fixtures:/api/v1/fixtures/fixtures?
+2024-10-19T09:01:37.942Z [INFO]: Cache miss for key: /api/v1/fixtures/view-fixtures:/api/v1/fixtures/view-fixtures?status=pending
+2024-10-19T09:02:33.638Z [INFO]: Cache miss for key: /api/v1/fixtures/view-fixtures:/api/v1/fixtures/view-fixtures?status=completed
+2024-10-19T09:14:57.756Z [INFO]: Cache miss for key: /api/v1/fixtures/fixtures:/api/v1/fixtures/fixtures?
+2024-10-19T09:18:40.655Z [INFO]: Cache miss for key: /api/v1/fixtures/fixtures:/api/v1/fixtures/fixtures?
+2024-10-19T09:29:00.844Z [INFO]: Cache miss for key: /api/v1/fixtures/fixtures:/api/v1/fixtures/fixtures?
+2024-10-19T09:31:51.753Z [INFO]: Cache miss for key: /api/v1/fixtures/view-fixtures:/api/v1/fixtures/view-fixtures?status=pending
+2024-10-19T09:32:40.348Z [INFO]: Cache miss for key: /api/v1/fixtures/view-fixtures:/api/v1/fixtures/view-fixtures?status=completed
+2024-10-19T09:33:25.924Z [INFO]: Cache miss for key: /api/v1/fixtures/search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-19T09:34:10.178Z [INFO]: Cache miss for key: /api/v1/fixtures/search/fixtures:/api/v1/fixtures/search/fixtures?query=manchester
+2024-10-19T09:34:19.259Z [INFO]: Cache miss for key: /api/v1/fixtures/search/fixtures:/api/v1/fixtures/search/fixtures?query=L
+2024-10-19T09:34:46.474Z [INFO]: Cache miss for key: /api/v1/fixtures/search/fixtures:/api/v1/fixtures/search/fixtures?query=Liverpool
+2024-10-19T10:00:12.471Z [WARN]: Missing token in request
+2024-10-19T10:00:48.548Z [INFO]: Cache miss for key: /views:/api/v1/teams/views?
+2024-10-19T10:14:27.764Z [INFO]: Cache miss for key: /views:/api/v1/teams/views?
+2024-10-19T10:17:51.789Z [INFO]: Cache miss for key: /views:/api/v1/teams/views?
+2024-10-19T10:20:06.956Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=everton
+2024-10-19T10:20:30.547Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=G
+2024-10-19T10:20:48.524Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=o
+2024-10-19T10:21:31.004Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=Old%20Traford
+2024-10-19T10:22:24.430Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=A
+2024-10-19T10:22:45.266Z [INFO]: Cache miss for key: /search/teams:/api/v1/teams/search/teams?query=Asernal
+2024-10-19T11:09:04.165Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T11:17:45.724Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T11:33:30.521Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.387Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.406Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.416Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.427Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.435Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:40.449Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:44.397Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:44.416Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T18:55:44.432Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.473Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.489Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.501Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.515Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.525Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.532Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.547Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.565Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:02:50.574Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.718Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.740Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.749Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.763Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.775Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T19:04:37.788Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-19T20:21:31.289Z [WARN]: Unauthorized access attempt by user 671414cb1424998a18be9d84 with role user
+2024-10-19T20:21:31.326Z [WARN]: Unauthorized access attempt by user 671414cb1424998a18be9d84 with role user
+2024-10-19T20:21:31.350Z [WARN]: Unauthorized access attempt by user 671414cb1424998a18be9d84 with role user
+2024-10-19T20:24:22.588Z [WARN]: Unauthorized access attempt by user 67141576f3cfcd25d7d26fda with role user
+2024-10-19T20:24:22.627Z [WARN]: Unauthorized access attempt by user 67141576f3cfcd25d7d26fda with role user
+2024-10-19T20:24:22.664Z [WARN]: Unauthorized access attempt by user 67141576f3cfcd25d7d26fda with role user
+2024-10-19T20:27:08.025Z [WARN]: Unauthorized access attempt by user 6714161be3debc7be2dbe063 with role user
+2024-10-19T20:27:08.062Z [WARN]: Unauthorized access attempt by user 6714161be3debc7be2dbe063 with role user
+2024-10-19T20:27:08.087Z [WARN]: Unauthorized access attempt by user 6714161be3debc7be2dbe063 with role user
+2024-10-19T20:41:48.198Z [WARN]: Unauthorized access attempt by user 6714198c862f8adba71fdd52 with role user
+2024-10-19T20:41:48.220Z [WARN]: Unauthorized access attempt by user 6714198c862f8adba71fdd52 with role user
+2024-10-19T20:41:48.246Z [WARN]: Unauthorized access attempt by user 6714198c862f8adba71fdd52 with role user
+2024-10-19T20:43:32.528Z [WARN]: Unauthorized access attempt by user 671419f4fb10b038df4b4113 with role user
+2024-10-19T20:43:32.548Z [WARN]: Unauthorized access attempt by user 671419f4fb10b038df4b4113 with role user
+2024-10-19T20:43:32.574Z [WARN]: Unauthorized access attempt by user 671419f4fb10b038df4b4113 with role user
+2024-10-19T20:48:00.308Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:48:00.327Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:48:00.350Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:48:14.898Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:48:14.922Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:48:14.948Z [WARN]: Unauthorized access attempt by user 67141b00c3b1cdccb00c0fd5 with role user
+2024-10-19T20:49:30.503Z [WARN]: Unauthorized access attempt by user 67141b5a942779d378ff9110 with role user
+2024-10-19T20:49:30.525Z [WARN]: Unauthorized access attempt by user 67141b5a942779d378ff9110 with role user
+2024-10-19T20:49:30.548Z [WARN]: Unauthorized access attempt by user 67141b5a942779d378ff9110 with role user
+2024-10-19T20:52:19.771Z [WARN]: Unauthorized access attempt by user 67141c03905957ac5d69cb4f with role user
+2024-10-19T20:52:19.793Z [WARN]: Unauthorized access attempt by user 67141c03905957ac5d69cb4f with role user
+2024-10-19T20:52:19.821Z [WARN]: Unauthorized access attempt by user 67141c03905957ac5d69cb4f with role user
+2024-10-19T20:56:19.102Z [WARN]: Unauthorized access attempt by user 67141cf264ac17097b3fa374 with role user
+2024-10-19T20:56:19.125Z [WARN]: Unauthorized access attempt by user 67141cf264ac17097b3fa374 with role user
+2024-10-19T20:56:19.147Z [WARN]: Unauthorized access attempt by user 67141cf264ac17097b3fa374 with role user
+2024-10-19T21:01:46.257Z [WARN]: Unauthorized access attempt by user 67141e3a55fed1ec27c0e6a4 with role user
+2024-10-19T21:01:46.301Z [WARN]: Unauthorized access attempt by user 67141e3a55fed1ec27c0e6a4 with role user
+2024-10-19T21:01:46.326Z [WARN]: Unauthorized access attempt by user 67141e3a55fed1ec27c0e6a4 with role user
+2024-10-19T21:05:03.728Z [WARN]: Unauthorized access attempt by user 67141eff5dc06cd7cace35f4 with role user
+2024-10-19T21:05:03.772Z [WARN]: Unauthorized access attempt by user 67141eff5dc06cd7cace35f4 with role user
+2024-10-19T21:05:03.800Z [WARN]: Unauthorized access attempt by user 67141eff5dc06cd7cace35f4 with role user
+2024-10-19T21:08:43.227Z [WARN]: Unauthorized access attempt by user 67141fdbd5130f361001cf04 with role user
+2024-10-19T21:08:43.292Z [WARN]: Unauthorized access attempt by user 67141fdbd5130f361001cf04 with role user
+2024-10-19T21:08:43.334Z [WARN]: Unauthorized access attempt by user 67141fdbd5130f361001cf04 with role user
+2024-10-19T21:13:20.111Z [WARN]: Unauthorized access attempt by user 671420ef7489c5bd8e470dee with role user
+2024-10-19T21:13:20.176Z [WARN]: Unauthorized access attempt by user 671420ef7489c5bd8e470dee with role user
+2024-10-19T21:13:20.198Z [WARN]: Unauthorized access attempt by user 671420ef7489c5bd8e470dee with role user
+2024-10-19T21:13:20.203Z [WARN]: Missing token in request
+2024-10-19T21:48:50.981Z [WARN]: Unauthorized access attempt by user 67142942dca11f1c4e4e64ba with role user
+2024-10-19T21:48:51.052Z [WARN]: Unauthorized access attempt by user 67142942dca11f1c4e4e64ba with role user
+2024-10-19T21:48:51.086Z [WARN]: Unauthorized access attempt by user 67142942dca11f1c4e4e64ba with role user
+2024-10-19T21:53:50.179Z [WARN]: Unauthorized access attempt by user 67142a6db7952ada0bfa2683 with role user
+2024-10-19T21:53:50.249Z [WARN]: Unauthorized access attempt by user 67142a6db7952ada0bfa2683 with role user
+2024-10-19T21:53:50.285Z [WARN]: Unauthorized access attempt by user 67142a6db7952ada0bfa2683 with role user
+2024-10-19T21:55:28.565Z [WARN]: Unauthorized access attempt by user 67142ad00fd9dd2c82ce542e with role user
+2024-10-19T21:55:28.656Z [WARN]: Unauthorized access attempt by user 67142ad00fd9dd2c82ce542e with role user
+2024-10-19T21:55:28.707Z [WARN]: Unauthorized access attempt by user 67142ad00fd9dd2c82ce542e with role user
+2024-10-19T21:58:38.282Z [WARN]: Unauthorized access attempt by user 67142b8dfb8fe3d662e72ee7 with role user
+2024-10-19T21:58:38.393Z [WARN]: Unauthorized access attempt by user 67142b8dfb8fe3d662e72ee7 with role user
+2024-10-19T21:58:38.443Z [WARN]: Unauthorized access attempt by user 67142b8dfb8fe3d662e72ee7 with role user
+2024-10-19T22:01:10.846Z [WARN]: Unauthorized access attempt by user 67142c26e8d0f641df6b1d4c with role user
+2024-10-19T22:01:10.930Z [WARN]: Unauthorized access attempt by user 67142c26e8d0f641df6b1d4c with role user
+2024-10-19T22:01:10.986Z [WARN]: Unauthorized access attempt by user 67142c26e8d0f641df6b1d4c with role user
+2024-10-19T22:04:29.239Z [WARN]: Unauthorized access attempt by user 67142cedff87cfda73432a7b with role user
+2024-10-19T22:04:29.315Z [WARN]: Unauthorized access attempt by user 67142cedff87cfda73432a7b with role user
+2024-10-19T22:04:29.355Z [WARN]: Unauthorized access attempt by user 67142cedff87cfda73432a7b with role user
+2024-10-19T22:12:16.861Z [WARN]: Unauthorized access attempt by user 67142ec089e83442b9343300 with role user
+2024-10-19T22:12:16.907Z [WARN]: Unauthorized access attempt by user 67142ec089e83442b9343300 with role user
+2024-10-19T22:12:16.927Z [WARN]: Unauthorized access attempt by user 67142ec089e83442b9343300 with role user
+2024-10-19T22:17:35.252Z [WARN]: Unauthorized access attempt by user 67142fff36fe8f37e0510e36 with role user
+2024-10-19T22:17:35.304Z [WARN]: Unauthorized access attempt by user 67142fff36fe8f37e0510e36 with role user
+2024-10-19T22:17:35.329Z [WARN]: Unauthorized access attempt by user 67142fff36fe8f37e0510e36 with role user
+2024-10-19T22:20:17.732Z [WARN]: Unauthorized access attempt by user 671430a1a98459617df6a1fb with role user
+2024-10-19T22:20:17.778Z [WARN]: Unauthorized access attempt by user 671430a1a98459617df6a1fb with role user
+2024-10-19T22:20:17.800Z [WARN]: Unauthorized access attempt by user 671430a1a98459617df6a1fb with role user
+2024-10-19T23:07:14.382Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.439Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.465Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.534Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.575Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.594Z [WARN]: Unauthorized access attempt by user 67143ba275357f90bd02430c with role user
+2024-10-19T23:07:14.618Z [WARN]: Missing token in request
+2024-10-19T23:17:14.542Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:17:14.589Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:17:14.610Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:17:14.627Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:17:14.672Z [WARN]: Missing token in request
+2024-10-19T23:17:14.694Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:17:14.734Z [WARN]: Unauthorized access attempt by user 67143dfa38ec7cd834365192 with role user
+2024-10-19T23:21:25.631Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:25.715Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:25.772Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:26.017Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:26.068Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:26.105Z [WARN]: Unauthorized access attempt by user 67143ef56ccf70c6664ae8ff with role user
+2024-10-19T23:21:26.165Z [WARN]: Missing token in request
+2024-10-19T23:23:12.862Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:12.972Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:13.029Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:13.261Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:13.323Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:13.374Z [WARN]: Unauthorized access attempt by user 67143f60fd4c18a5e064cefe with role user
+2024-10-19T23:23:13.444Z [WARN]: Missing token in request
+2024-10-19T23:24:22.935Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.015Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.063Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.291Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.350Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.416Z [WARN]: Unauthorized access attempt by user 67143fa61fa48b9e061e1742 with role user
+2024-10-19T23:24:23.503Z [WARN]: Missing token in request
+2024-10-19T23:36:54.471Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:54.501Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:55.371Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:55.854Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:56.466Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:56.975Z [WARN]: Unauthorized access attempt by user 671442953c1dc240dade1a56 with role user
+2024-10-19T23:36:58.215Z [WARN]: Missing token in request
+2024-10-19T23:40:47.264Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:48.912Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:50.131Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:51.671Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:52.582Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:53.423Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-19T23:40:54.969Z [WARN]: Missing token in request
+2024-10-20T18:22:40.080Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-20T18:22:52.374Z [WARN]: Missing token in request
+2024-10-20T18:23:56.824Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-20T18:40:10.274Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-20T18:40:17.418Z [WARN]: Invalid token: An unknown error has occurred. Please try again later.
+2024-10-20T19:22:23.454Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-20T19:22:23.696Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-20T19:22:24.717Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-20T19:22:25.711Z [WARN]: Unauthorized access attempt by user 6714437d618b31b9e7db6336 with role user
+2024-10-20T19:22:27.191Z [WARN]: Missing token in request
+2024-10-20T19:26:26.010Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:28.521Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:29.565Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:30.461Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:31.686Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:32.814Z [WARN]: Unauthorized access attempt by user 67155960abb8e9e6a1f46268 with role user
+2024-10-20T19:26:34.499Z [WARN]: Missing token in request
+2024-10-20T19:30:32.225Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:35.657Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:36.724Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:37.652Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:38.840Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:41.272Z [WARN]: Unauthorized access attempt by user 67155a5416b8e7c797f19e71 with role user
+2024-10-20T19:30:49.232Z [WARN]: Missing token in request
