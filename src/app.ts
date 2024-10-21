@@ -10,13 +10,14 @@ dotenv.config();
 const limiter = rateLimit({
 	windowMs: 15 * 60 * 1000, 
 	limit: 100,
-	standardHeaders: 'draft-7',
+	standardHeaders: true,
 	legacyHeaders: false,
 	handler: (req, res) => {
 		res.status(429).json({
 			error: 'Too many requests, please try again later.'
 		});
-	}
+	},
+	validate: false
 });
 
 //Rate Limit For User Routes
