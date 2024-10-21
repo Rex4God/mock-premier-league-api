@@ -32,6 +32,8 @@ const app = express();
 app.use(express.json());
 app.use(limiter); 
 app.use(cors());
+app.set('trust proxy', true);
+
 
 // Apply Rate Limit For User Routes
 app.use('/api/v1/auth', authLimiter);
